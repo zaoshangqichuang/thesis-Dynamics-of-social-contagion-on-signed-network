@@ -11,3 +11,16 @@
 可选择两种机制分配负边：  
 * 随机配置：随机撒负边  
 * 优先配置：优先配置ws网络长程边、优先配置ba网络高介数边  
+
+[me_analysis.py](https://github.com/zaoshangqichuang/-thesis-Dynamics-of-social-contagion-on-signed-network/blob/main/%E4%BB%A3%E7%A0%81/me_analysis.py)  
+平均场方程的理论计算  
+
+[BA_me_analysis.py](https://github.com/zaoshangqichuang/-thesis-Dynamics-of-social-contagion-on-signed-network/blob/main/%E4%BB%A3%E7%A0%81/BA_me_analysis.py)  
+异质网络的异质平均场方程计算
+
+[SIS_sim.py](https://github.com/zaoshangqichuang/-thesis-Dynamics-of-social-contagion-on-signed-network/blob/main/%E4%BB%A3%E7%A0%81/SIS_sim.py)  
+SIS网络模拟  
+
+[pick_edges.py](https://github.com/zaoshangqichuang/-thesis-Dynamics-of-social-contagion-on-signed-network/blob/main/%E4%BB%A3%E7%A0%81/pick_edges.py)  
+随机挑选边、点
+
